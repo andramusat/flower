@@ -8,7 +8,7 @@ tr.pencolor('#540d6e')
 tr.speed(0)
 tr.tracer(100)
 tr.pensize(1)
-col = ('#FF7F3F', '#FBDF07', '#89CFFD', '#F94892')
+col = ('#DDA0DD', '#DA70D6', '#BA55D3', '#9932CC')
 
 for i in range(3):
   for n in range(400):
