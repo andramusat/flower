@@ -1,3 +1,3 @@
 # flower
 
-This python code creates a flower.
+This python code draws a flower.
